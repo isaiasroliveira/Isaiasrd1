@@ -1,57 +1,10 @@
 <h1 align="center">Isaias R. Oliveira</h1>
 
 <p align="center">
-  Data, automation and internal products — Python, TypeScript, and whatever else solves the problem.
+ TypeScript, Python and whatever else solves the problem ;)
 </p>
 
 <p align="center">
   <a href="https://github.com/isaiasroliveira"><img src="https://img.shields.io/badge/GitHub-isaiasroliveira-181717?style=flat-square&logo=github" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/Focus-Data%20%26%20Automation-3572A5?style=flat-square" alt="Focus">
-  <img src="https://img.shields.io/badge/Panel-updated%20weekly-3178c6?style=flat-square" alt="Panel">
+    <a href="https://github.com/isaiasroliveira"><img src="https://img.shields.io/badge/Isaias%20Oliveira-0077b5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K" alt="LinkedIn"></a>
 </p>
-
----
-
-## 📊 Language panel
-
-> Includes **private and organization repositories** — the stock "top languages" widget only
-> sees public repos. Regenerated automatically every Monday.
-
-<!-- LANGS:START -->
-
-| Language | Share | | Repos |
-|---|---:|---|---:|
-| **Python** | `31.3%` | `███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` | 7 |
-| **TypeScript** | `28.7%` | `██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` | 5 |
-| **JavaScript** | `19.8%` | `██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` | 7 |
-| **Shell** | `7.1%` | `███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` | 1 |
-| **Swift** | `7.1%` | `███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` | 1 |
-| **CSS** | `2.2%` | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` | 4 |
-| **Typst** | `2%` | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` | 1 |
-| **HTML** | `0.6%` | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` | 1 |
-| **SCSS** | `0.6%` | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` | 1 |
-| **Dockerfile** | `0.4%` | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` | 5 |
-| **PLpgSQL** | `<0.1%` | `░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` | 1 |
-
-<details>
-<summary>By raw code volume (bytes)</summary>
-
-| Language | Bytes | Share |
-|---|---:|---:|
-| JavaScript | 2 MB | 39.2% |
-| TypeScript | 1.3 MB | 26.2% |
-| CSS | 937 KB | 17.9% |
-| SCSS | 332 KB | 6.3% |
-| HTML | 293 KB | 5.6% |
-| Python | 230 KB | 4.4% |
-| Typst | 8 KB | 0.1% |
-| Swift | 5 KB | 0.1% |
-| Shell | 4 KB | 0.1% |
-| Dockerfile | 2 KB | <0.1% |
-| PLpgSQL | 1 KB | <0.1% |
-
-</details>
-
-<sub>Based on **20 repositories** — 14 private, 1 fork excluded. Primary metric: average share of each language per repository, so a single vendor-heavy bundle cannot hijack the panel.</sub>
-
-<!-- LANGS:END -->
