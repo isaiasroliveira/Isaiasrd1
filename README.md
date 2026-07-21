@@ -40,8 +40,8 @@
 |---|---:|---:|
 | JavaScript | 2 MB | 39.2% |
 | TypeScript | 1.3 MB | 26.2% |
-| CSS | 936 KB | 17.9% |
-| SCSS | 332 KB | 6.4% |
+| CSS | 937 KB | 17.9% |
+| SCSS | 332 KB | 6.3% |
 | HTML | 293 KB | 5.6% |
 | Python | 230 KB | 4.4% |
 | Typst | 8 KB | 0.1% |
